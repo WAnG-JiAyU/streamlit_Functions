@@ -8,4 +8,7 @@ This is a multipage streamlit application, including the following functionaliti
 
 For each functionality, the plot can be adjust by changing plotting parameters. 
 
+The application is deployed on streamlit Cloud : 
+https://appfunctions-edjgkq2qf8np8w9tmkywyc.streamlit.app/
+
 Hope you enjoy this simple application !
